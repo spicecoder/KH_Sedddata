@@ -1,8 +1,5 @@
 module.exports = 
 {
-  "_id": {
-    "oid": "5f8a222fa972351bb80c4ef5"
-  },
   "title": "Tan Tan Noodles",
   "description": "This great tasting recipe will help you add the health-promoting benefits of buckwheat to your Healthiest Way of Eating.\n",
   "category": "Vegetarian Entrees",

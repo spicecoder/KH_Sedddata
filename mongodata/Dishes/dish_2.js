@@ -1,8 +1,6 @@
 module.exports = 
 {
-  "_id": {
-    "oid": "5f8a1b5ba972351bb80c4ea8"
-  },
+  
   "title": "Poached Egg over Spinach and Mushroom",
   "description": "A great way to add extra veggies to many dishes is to add baby spinach right before the end of the cooking time. All you have to do is wait for it to become tender.",
   "category": "Breakfast",

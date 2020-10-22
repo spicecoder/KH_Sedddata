@@ -1,8 +1,6 @@
 module.exports = 
 {  
-        "_id": {
-          "oid": "5f8a1a79a972351bb80c4e9c"
-        },
+        
         "title": "Salmon with Cucumber Chili Salad",
         "description": "Enjoy this refreshing salmon salad for lunch or dinner as part of your Healthiest Way of Eating. It is an excellent source of vitamin D and provides 105% of the Daily Value for omega-3 fatty acids. Enjoy!",
         "category": "Fish",

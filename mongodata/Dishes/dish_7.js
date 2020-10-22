@@ -1,8 +1,6 @@
 module.exports = 
 {
-  "_id": {
-    "oid": "5f8a2390a972351bb80c4f01"
-  },
+  
   "title": "10-Minute Fresh Berry Dessert with Yogurt and Chocolate",
   "description": "This 10-minute dessert combines our favorite flavors in a quick and easy way that is rich tasting, yet healthier than many desserts. The chocolate is a great complement to the berries and yogurt. It is perfect for those moments when you want to enjoy this wonderful combination of flavors.",
   "category": "Desserts",

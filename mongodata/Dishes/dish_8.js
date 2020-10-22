@@ -1,8 +1,6 @@
 module.exports = 
 {
-  "_id": {
-    "oid": "5f8a28a7a972351bb80c4f12"
-  },
+  
   "title": "Salsa Verde Enchiladas",
   "description": "Saucy, smothered, hearty, and delicious: This enchilada bake has everything you could possibly want. You’ll make it by wrapping tortillas around a filling of poblano pepper, tomato, and beans, then coating the bundles with a healthy glug of mild green salsa and a sprinkle of Monterey Jack cheese. Put it in the oven and let it get piping hot and bubbly, and all you’ll have left to do is add a drizzle of spiced sour cream and dig in to that deliciousness.",
   "category": "Veggie",

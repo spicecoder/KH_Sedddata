@@ -1,8 +1,6 @@
 module.exports = 
 {
-  "_id": {
-    "oid": "5f8a1c45a972351bb80c4ead"
-  },
+  
   "title": "Barley Mushroom Soup",
   "description": "The crimini mushrooms and tawny port gives this Barley Mushroom Soup extra flavor. This soup is a great way to enjoy the health benefits of barley.",
   "category": "Soup",

@@ -1,8 +1,6 @@
 module.exports = 
 {
-  "_id": {
-    "oid": "5f8a1d8fa972351bb80c4eca"
-  },
+  
   "title": "7-Minute Quick Broiled Chicken",
   "description": "Chicken breasts provide a wonderful source of low-fat protein to your Healthiest Way of Eating. Our Quick Broil method retains and flavor and moisture; the secret is to leave the skin on while cooking. Enjoy!",
   "category": "Chicken and Turkey",

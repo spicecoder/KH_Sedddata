@@ -1,8 +1,6 @@
 module.exports = 
 {
-    "_id": {
-      "oid": "5f8a1ffca972351bb80c4eea"
-    },
+    
     "title": "Indian-Style Lentils",
     "description": "Combine this tasty lentil dish with rice for a hearty meatless meal to add to your Healthiest Way of Eating. It will provide you with a complete protein as well many other health-promoting nutrients.",
     "category": "Vegetarian Entrees",
