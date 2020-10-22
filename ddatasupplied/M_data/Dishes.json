@@ -1,0 +1,377 @@
+[{
+  "_id": {
+    "$oid": "5f8a1a79a972351bb80c4e9c"
+  },
+  "title": "Salmon with Cucumber Chili Salad",
+  "description": "Enjoy this refreshing salmon salad for lunch or dinner as part of your Healthiest Way of Eating. It is an excellent source of vitamin D and provides 105% of the Daily Value for omega-3 fatty acids. Enjoy!",
+  "category": "Fish",
+  "address": "P.O. Box 283 8562 Fusce Rd. Frederick Nebraska 20620",
+  "location": {
+    "lat": 41.4925374,
+    "lng": -99.9018131
+  },
+  "images": [
+    {
+      "filename": "f60fc255d167562725ae8c99f452f80d.jpg"
+    },
+    {
+      "filename": "78a2e41c249eb4c55d166017ea7ac4dc.JPG"
+    }
+  ],
+  "ingredients": [
+    "11/2 lb salmon fillet,deboned and skin removed cut into 4 pieces",
+    "3 cups thinly sliced washed cucumber, do not peel",
+    "2 tsp minced jalapeno pepper*, seeds and stem removed",
+    "1/2 cup chopped scallion",
+    "3 TBS chopped fresh cilantro",
+    "11/2 TBS chopped fresh mint"
+  ],
+  "instructions": [
+    "To Quick Broil salmon, preheat broiler and place an all stainless steel skillet (be sure the handle is also stainless steel) or cast iron pan under the heat for about 10 minutes to get it very hot. The pan should be 5 to 7 inches from the heat source.",
+    "Rub salmon with 2 tsp fresh lemon juice, salt and pepper. (You can Quick Broil with the skin on; it just takes a minute or two longer. The skin will peel right off after cooking.)",
+    "While pan is heating, prepare the remaining five ingredients.",
+    "Using a hot pad, pull pan away from heat and place salmon on hot pan, skin side down. Return to broiler. Keep in mind that it is cooking rapidly on both sides so it will be done very quickly, usually in 7 minutes depending on thickness. Test with a fork for doneness. It will flake easily when it is cooked. Salmon is best when it is still pink inside.",
+    "While salmon is cooking, whisk together lemon juice, soy sauce, olive oil, salt and pepper. When ready to serve toss with cucumber mixture. Do not toss ahead as it will dilute the flavor.",
+    "Place cucumber salad on a platter and place salmon on top. Garnish with a sprig of cilantro and serve."
+  ],
+  "nutrients": {
+    "proteins": 50,
+    "carbs": 30,
+    "fats": 20
+  },
+  "calories": "360",
+  "price": "1000",
+  "cookTime": "20 minutes",
+  "createdAt": "16/10/2020 | 03:11:04",
+  "updatedAt": "16/10/2020 | 03:11:04",
+  "publishDate": "",
+  "chefId": "SZ0gVLdMioVjAjYBvcv6WDYVJFy1",
+  "status": "PENDING"
+},{
+  "_id": {
+    "$oid": "5f8a1b5ba972351bb80c4ea8"
+  },
+  "title": "Poached Egg over Spinach and Mushroom",
+  "description": "A great way to add extra veggies to many dishes is to add baby spinach right before the end of the cooking time. All you have to do is wait for it to become tender.",
+  "category": "Breakfast",
+  "address": "606-3727 Ullamcorper. Street Roseville NH 11523",
+  "location": {
+    "lat": 43.1938516,
+    "lng": -71.5723953
+  },
+  "images": [
+    {
+      "filename": "daca7fc71a2ec07e0dc3412ceb54b93f.jpg"
+    },
+    {
+      "filename": "ad00d821737fd66665875897ceaf5e5a.jpg"
+    }
+  ],
+  "ingredients": [
+    "5 TBS low sodium chicken broth or vegetable broth",
+    "1/2 cup crimini mushrooms, sliced",
+    "1 bunch spinach",
+    "1 TBS Mediterranean Dressing",
+    "2 omega-3 rich eggs, poached"
+  ],
+  "instructions": [
+    "Heat broth in a 10-12 inch stainless steel skillet. Healthy Sauté mushrooms for 4 minutes over medium heat stirring frequently.",
+    "Add the spinach and stir for 1 minute.",
+    "Toss with Mediterranean Dressing and top with two poached eggs."
+  ],
+  "nutrients": {
+    "proteins": 70,
+    "carbs": 20,
+    "fats": 10
+  },
+  "calories": "100",
+  "price": "500",
+  "cookTime": "15 minutes",
+  "createdAt": "16/10/2020 | 03:14:51",
+  "updatedAt": "16/10/2020 | 03:14:51",
+  "publishDate": "",
+  "chefId": "SZ0gVLdMioVjAjYBvcv6WDYVJFy1",
+  "status": "PENDING"
+},{
+  "_id": {
+    "$oid": "5f8a1c45a972351bb80c4ead"
+  },
+  "title": "Barley Mushroom Soup",
+  "description": "The crimini mushrooms and tawny port gives this Barley Mushroom Soup extra flavor. This soup is a great way to enjoy the health benefits of barley.",
+  "category": "Soup",
+  "address": "Ap #867-859 Sit Rd. Azusa New York 39531",
+  "location": {
+    "lat": 34.1336186,
+    "lng": -117.9075626
+  },
+  "images": [
+    {
+      "filename": "62d116e66e39958aff6e242556b3095c.jpg"
+    }
+  ],
+  "ingredients": [
+    "1/2 cup pearl barley",
+    "1 medium onion, chopped fine",
+    "3 medium cloves garlic, pressed or finely chopped",
+    "1 medium carrot, peeled and diced in 1/4-inch cubes",
+    "2 1/2 cups crimini mushrooms, cut in half and sliced",
+    "1/2 cup Tawny port",
+    "1 TBS + 6 cups chicken or vegetable broth",
+    "1 TBS chopped fresh parsley",
+    "1 TBS chopped fresh thyme (or 1 tsp dried thyme)",
+    "1/2 TBS chopped fresh sage (or 1/2 tsp dried sage)",
+    "Salt and black pepper to taste"
+  ],
+  "instructions": [
+    "Rinse and soak barley in 1 cup of warm water while preparing rest of ingredients.",
+    "Heat 1 TBS broth in a medium soup pot. Healthy Sauté onion, garlic, and carrots in broth for 5 minutes over medium heat, stirring frequently.",
+    "Add mushrooms and continue to sauté for another 3 minutes. Add drained barley and Tawny Port and cook for about 2 minutes.",
+    "Add rest of broth and bring soup to a boil on high heat. Once it comes to a boil, reduce heat to medium and simmer for about 40 minutes, or until barley and carrots are tender.",
+    "Add herbs, salt, and pepper at the end of cooking and serve."
+  ],
+  "nutrients": {
+    "proteins": 60,
+    "carbs": 10,
+    "fats": 10
+  },
+  "calories": "230",
+  "price": "700",
+  "cookTime": "1 hour 15 mins",
+  "createdAt": "16/10/2020 | 03:18:45",
+  "updatedAt": "16/10/2020 | 03:18:45",
+  "publishDate": "",
+  "chefId": "SZ0gVLdMioVjAjYBvcv6WDYVJFy1",
+  "status": "PENDING"
+},{
+  "_id": {
+    "$oid": "5f8a1d8fa972351bb80c4eca"
+  },
+  "title": "7-Minute Quick Broiled Chicken",
+  "description": "Chicken breasts provide a wonderful source of low-fat protein to your Healthiest Way of Eating. Our Quick Broil method retains and flavor and moisture; the secret is to leave the skin on while cooking. Enjoy!",
+  "category": "Chicken and Turkey",
+  "address": "Ap #867-859 Sit Rd. Azusa New York 39531",
+  "location": {
+    "lat": 34.1336186,
+    "lng": -117.9075626
+  },
+  "images": [
+    {
+      "filename": "8ad3fcb28e127ce5a11d3e506aceb568.jpg"
+    }
+  ],
+  "ingredients": [
+    "2 6-oz boneless chicken breasts",
+    "2 tsp fresh lemon juice",
+    "sea salt and pepper to taste",
+    "1-2 cloves garlic, pressed or finely chopped",
+    "3 TBS extra virgin olive oil",
+    "2 tsp fresh lemon juice",
+    "sea salt and pepper to taste"
+  ],
+  "instructions": [
+    "Preheat the broiler on high and place an all stainless steel skillet (be sure the handle is also stainless steel) or cast iron pan about 6 inches from the heat for about 10 minutes to get it very hot.",
+    "While the pan is heating, rinse and pat the chicken dry and season with lemon juice, salt, and pepper.",
+    "Leaving the skin on, place the breast skin side up on the hot pan and return it to the oven. It is not necessary to turn the breast because it is cooking on both sides at once. Depending on the size, it should be cooked in about 7 minutes. Remove the skin before serving; it is left on to keep it moist while broiling. The breast is done when it is moist, yet its liquid runs clear when pierced. The inside temperature needs to reach 165°F (74⪚C).",
+    "Dress with garlic, lemon juice, extra virgin olive oil, salt, and pepper to taste. Add rosemary, sage, or Dijon mustard to the dressing if desired. You can also top with sauteed mushrooms for extra flavor."
+  ],
+  "nutrients": {
+    "proteins": 80,
+    "carbs": 10,
+    "fats": 10
+  },
+  "calories": "374",
+  "price": "1200",
+  "cookTime": " 20 minutes",
+  "createdAt": "16/10/2020 | 03:24:15",
+  "updatedAt": "16/10/2020 | 03:24:15",
+  "publishDate": "",
+  "chefId": "SZ0gVLdMioVjAjYBvcv6WDYVJFy1",
+  "status": "PENDING"
+},{
+  "_id": {
+    "$oid": "5f8a1ffca972351bb80c4eea"
+  },
+  "title": "Indian-Style Lentils",
+  "description": "Combine this tasty lentil dish with rice for a hearty meatless meal to add to your Healthiest Way of Eating. It will provide you with a complete protein as well many other health-promoting nutrients.",
+  "category": "Vegetarian Entrees",
+  "address": "Ap #867-859 Sit Rd. Azusa New York 39531",
+  "location": {
+    "lat": 34.1336186,
+    "lng": -117.9075626
+  },
+  "images": [
+    {
+      "filename": "d736d037d5f181b5eec4cb6435d4c6b3.jpg"
+    }
+  ],
+  "ingredients": [
+    "1 medium size onion, diced",
+    "1 TBS vegetable broth",
+    "2 cloves garlic, minced",
+    "1 tsp ginger",
+    "1/2 tsp turmeric",
+    "1/2 tsp salt",
+    "1 cup canned diced tomatoes",
+    "2 cups or 1 15-oz can (BPA free) lentils",
+    "1 cup frozen spinach"
+  ],
+  "instructions": [
+    "Dice onions and mince garlic and let sit for at least 5 minutes to bring out their health-promoting properties.",
+    "Healthy sauté onion in 1 TBS broth for 3 minutes.",
+    "Add garlic, ginger, turmeric, salt, tomatoes and lentils.",
+    "Simmer covered for 5-7 minutes.",
+    "Add 1 cup frozen spinach and continue simmering for 2 more minutes."
+  ],
+  "nutrients": {
+    "proteins": 60,
+    "carbs": 20,
+    "fats": 20
+  },
+  "calories": "305",
+  "price": "1000",
+  "cookTime": "20 minutes",
+  "createdAt": "16/10/2020 | 03:34:36",
+  "updatedAt": "16/10/2020 | 03:34:36",
+  "publishDate": "",
+  "chefId": "SZ0gVLdMioVjAjYBvcv6WDYVJFy1",
+  "status": "PENDING"
+},{
+  "_id": {
+    "$oid": "5f8a222fa972351bb80c4ef5"
+  },
+  "title": "Tan Tan Noodles",
+  "description": "This great tasting recipe will help you add the health-promoting benefits of buckwheat to your Healthiest Way of Eating.\n",
+  "category": "Vegetarian Entrees",
+  "address": "Ap #867-859 Sit Rd. Azusa New York 39531",
+  "location": {
+    "lat": 34.1336186,
+    "lng": -117.9075626
+  },
+  "images": [
+    {
+      "filename": "78013a024ff91193f224ece51913450a.jpg"
+    },
+    {
+      "filename": "e102d1393f836048e41ddd60ba5cb765.jpg"
+    }
+  ],
+  "ingredients": [
+    "1/4 lb soba noodles*",
+    "1/2 cup minced scallion",
+    "2 TBS peanut butter",
+    "2 TBS rice vinegar",
+    "1-1/2 TBS soy sauce",
+    "1 TBS honey",
+    "2 medium cloves garlic, chopped",
+    "2-1/2 TBS minced or grated fresh ginger",
+    "Salt and white pepper to taste"
+  ],
+  "instructions": [
+    "Bring lightly salted water to a boil and cook soba noodles according to package instructions.",
+    "While water is coming to a boil, blend sauce ingredients together in a blender and minced scallion",
+    "Drain noodles, and toss with sauce and scallion."
+  ],
+  "nutrients": {
+    "proteins": 30,
+    "carbs": 40,
+    "fats": 30
+  },
+  "calories": "173",
+  "price": "760",
+  "cookTime": "15 minutes",
+  "createdAt": "16/10/2020 | 03:43:59",
+  "updatedAt": "16/10/2020 | 03:43:59",
+  "publishDate": "",
+  "chefId": "SZ0gVLdMioVjAjYBvcv6WDYVJFy1",
+  "status": "PENDING"
+},{
+  "_id": {
+    "$oid": "5f8a2390a972351bb80c4f01"
+  },
+  "title": "10-Minute Fresh Berry Dessert with Yogurt and Chocolate",
+  "description": "This 10-minute dessert combines our favorite flavors in a quick and easy way that is rich tasting, yet healthier than many desserts. The chocolate is a great complement to the berries and yogurt. It is perfect for those moments when you want to enjoy this wonderful combination of flavors.",
+  "category": "Desserts",
+  "address": "606-3727 Ullamcorper. Street Roseville NH 11523",
+  "location": {
+    "lat": 43.1938516,
+    "lng": -71.5723953
+  },
+  "images": [
+    {
+      "filename": "8d22dd5898523fc4cd67a37cf5f42f72.jpg"
+    },
+    {
+      "filename": "62eb98701a2ea332d6b43c22e53dd085.jpg"
+    }
+  ],
+  "ingredients": [
+    "1 basket fresh strawberries or raspberries",
+    "8 oz low-fat vanilla yogurt",
+    "2 oz net-wt dark chocolate"
+  ],
+  "instructions": [
+    "Fold together yogurt and berries.",
+    "Melt chocolate in a double boiler with heat on medium. Place berries and yogurt in individual bowls and drizzle with melted chocolate."
+  ],
+  "nutrients": {
+    "proteins": 10,
+    "carbs": 20,
+    "fats": 60
+  },
+  "calories": "0",
+  "price": "600",
+  "cookTime": "10 minutes",
+  "createdAt": "16/10/2020 | 03:49:52",
+  "updatedAt": "16/10/2020 | 03:49:52",
+  "publishDate": "",
+  "chefId": "SZ0gVLdMioVjAjYBvcv6WDYVJFy1",
+  "status": "PENDING"
+},{
+  "_id": {
+    "$oid": "5f8a28a7a972351bb80c4f12"
+  },
+  "title": "Salsa Verde Enchiladas",
+  "description": "Saucy, smothered, hearty, and delicious: This enchilada bake has everything you could possibly want. You’ll make it by wrapping tortillas around a filling of poblano pepper, tomato, and beans, then coating the bundles with a healthy glug of mild green salsa and a sprinkle of Monterey Jack cheese. Put it in the oven and let it get piping hot and bubbly, and all you’ll have left to do is add a drizzle of spiced sour cream and dig in to that deliciousness.",
+  "category": "Veggie",
+  "address": "191-103 Integer Rd. Corona New Mexico",
+  "location": {
+    "lat": 34.5199402,
+    "lng": -105.8700901
+  },
+  "images": [
+    {
+      "filename": "08c5f8ec494efc2e9fd438e376024ce0.jpg"
+    }
+  ],
+  "ingredients": [
+    "2 unit Scallions",
+    "1 unit Roma Tomato",
+    "1 tablespoon Southwest Spice Blend",
+    "7.06 ounce Green Salsa",
+    "2 tablespoon Sour Cream",
+    "1 unit Poblano Pepper",
+    "13.4 ounce Black Beans",
+    "6 unit Flour Tortillas"
+  ],
+  "instructions": [
+    " Adjust rack to top position and preheat oven to 475 degrees. Wash and dry all produce. • Core, deseed, and dice poblano. Finely dice tomato. Trim and thinly slice scallions, separating whites from greens. Drain beans over a small bowl, reserving liquid. Thinly slice chili.",
+    " Heat a drizzle of oil in a large pan over medium-high heat. Add poblano and cook until just softened, 3-4 minutes.",
+    "Meanwhile, reserve ½ tsp Southwest Spice (1 tsp for 4 servings) in a second small bowl for step 6. • Once poblano is just softened, add tomato, scallion whites, half the beans, 2 TBSP reserved bean liquid (you’ll use the remaining beans and more bean liquid in the next step), and remaining Southwest Spice to pan. Cook, stirring, until fragrant and warmed through, 2-3 minutes. Season with salt and pepper.",
+    " Heat a large drizzle of oil in a small pot over medium-high heat. Add remaining beans and cook, stirring, until slightly softened, 2-3 minutes. Add 3 TBSP reserved bean liquid (1⁄3 cup for 4 servings). (You may have some bean liquid left over.) • Simmer until warmed through, 1-2 minutes. Reduce heat to low and stir in 1 TBSP butter (2 TBSP for 4). • Turn off heat; mash with a potato masher or fork until mostly smooth. Season with plenty of salt and pepper.",
+    "Spread tortillas with mashed beans. Place a small amount of filling on one half of each tortilla. Roll up tortillas, starting with filled sides, and place seam sides down in an 8-by-11-inch baking dish or ovenproof pan. (For 4 servings, place in a 9-by-13-inch baking dish or two smaller ones.) Spoon enough salsa over to generously coat (you may have some left over). Sprinkle with Monterey Jack. • Bake on top rack until salsa is bubbly and cheese melts, 3-5 minutes.",
+    " While enchiladas bake, add sour cream to bowl with reserved Southwest Spice. Stir in warm water 1 tsp at a time until mixture reaches a drizzling consistency. Season with salt and pepper. • Top baked enchiladas with crema, scallion greens, and as much chili as you like. Divide between plates and serve."
+  ],
+  "nutrients": {
+    "proteins": 20,
+    "carbs": 70,
+    "fats": 31
+  },
+  "calories": "800",
+  "price": "1100",
+  "cookTime": "35 minutes",
+  "createdAt": "16/10/2020 | 04:11:35",
+  "updatedAt": "16/10/2020 | 04:11:35",
+  "publishDate": "",
+  "chefId": "SZ0gVLdMioVjAjYBvcv6WDYVJFy1",
+  "status": "PENDING"
+}]
